@@ -22,22 +22,22 @@ Every person on your team is an asset. This is your chance to discover the hidde
 Describe at least:
 
 * What are the key strengths of each person on the team?
-Devin-Coding, creative problem solving (thinking outside the box), innovative (looking to advance/improve processes)
-Chris-Great memory for details, excellent troubleshooting skills, breaking down the problem at hand and presenting ideas on how to fix it.
-Jeremy-Communication, leadership traits, prioritization of tasks
+    * Devin-Coding, creative problem solving (thinking outside the box), innovative (looking to advance/improve processes)
+    * Chris-Great memory for details, excellent troubleshooting skills, breaking down the problem at hand and presenting ideas on how to fix it.
+    * Jeremy-Communication, leadership traits, prioritization of tasks
 
 * How can you best utilize these strengths in the execution of your project?
-Jeremy-helps create/maintain the foundation/skelton of the project, prioritizes tasks
-Chris-Brings solutions to roadblocks and is able to bring ideas to the table, recall important details regarding processes
-Devin-breaks down barriers we have encountered add functionality to scripts and overall project.
+    * Jeremy-helps create/maintain the foundation/skelton of the project, prioritizes tasks
+    * Chris-Brings solutions to roadblocks and is able to bring ideas to the table, recall important details regarding processes
+    * Devin-breaks down barriers we have encountered add functionality to scripts and overall project.
 
 * In which professional competencies do you each want to develop greater strength?
-Chris-Craft, Communication 
-Devin-Results, growth mindset
-Jeremy-Business acumen, craft
+    * Chris-Craft, Communication 
+    * Devin-Results, growth mindset
+    * Jeremy-Business acumen, craft
 
 * Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
-We will have a period of time (5-10 minutes) at the beginning of project work time to go over what we are working on, what roadblocks were stuck on, any doubts/concerns we are having, and brianstorm solutions, what we are hoping to accomplish that night. 
+    * We will have a period of time (5-10 minutes) at the beginning of project work time to go over what we are working on, what roadblocks were stuck on, any doubts/concerns we are having, and brianstorm solutions, what we are hoping to accomplish that night. 
 
 NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.
 
@@ -47,21 +47,21 @@ Your team should agree on a process for handling disagreements, should they aris
 Describe at least:
 
 * What will be your group’s process to resolve conflict, when it arises?
-Talk about it like adults.
+    * Talk about it like adults.
 
 * What will your team do if one person is taking over the project and not letting the other members contribute?
-Call them out (respectfully)
+    * Call them out (respectfully)
 
 * How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
-We will approach it as a unified group, if someone is stuck we are all stuck essentially. We will do our best to help troubleshoot problems and offer our insight to help address roadblocks
+    * We will approach it as a unified group, if someone is stuck we are all stuck essentially. We will do our best to help troubleshoot problems and offer our insight to help address roadblocks
 
 * How will you raise concerns to members who are not adequately contributing?
-During group meetings at the beginning of class time we will bring it up in a respectful manner and go over what each person is working on and what our responsibilities are for the overall project.
-If someone is behind, approach them and say “What are you stuck on, is there anything we can do to help”
+    * During group meetings at the beginning of class time we will bring it up in a respectful manner and go over what each person is working on and what our responsibilities are for the overall project.
+    * If someone is behind, approach them and say “What are you stuck on, is there anything we can do to help”
 
 * How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-When–if someone is behind and we have hinted at their low contribution or discussed assigned responsibilities and they have not yet made attempts or changes.
-How-In a way that is constructive and straight to the point.
+    * When–if someone is behind and we have hinted at their low contribution or discussed assigned responsibilities and they have not yet made attempts or changes.
+    * How-In a way that is constructive and straight to the point.
 
 
 ## Communication Plan
@@ -70,28 +70,28 @@ Before beginning to tackle the project, determine how your group will communicat
 Describe at least:
 
 * What hours will you be available to communicate?
-Chris is three hours ahead, he stated that the latest he will be available to communicate will be 11pm PST Monday-Friday, but will respond to slack messages the next day.
-Devin-5:30-11:00pm Monday-Friday. All day Saturday. All day Thursday as well. 
-Jeremy-5:30-11:00pm Monday-Friday. All day Saturday. (can be available during work hours if needed)
-Everyone will take Sunday off unless we are behind.
+    * Chris is three hours ahead, he stated that the latest he will be available to communicate will be 11pm PST Monday-Friday, but will respond to slack messages the next day.
+    * Devin-5:30-11:00pm Monday-Friday. All day Saturday. All day Thursday as well. 
+    * Jeremy-5:30-11:00pm Monday-Friday. All day Saturday. (can be available during work hours if needed)
+    * Everyone will take Sunday off unless we are behind.
 
 * What platforms will you use to communicate (ie. Slack, phone …)?
-Slack
+    * Slack
 
 * How often will you take breaks?
-15 min every 2 hours–or when we are feeling overwhelmed we can take time away from the project. Communicate with the group on how long you will be away.  
+    * 15 min every 2 hours–or when we are feeling overwhelmed we can take time away from the project. Communicate with the group on how long you will be away.  
 
 * What is your plan if you start to fall behind?
-Group discussion at the beginning to go over what needs to be done, where we are stuck. At this time we can assess the progress of the project and see if help is needed in areas to bring us back on schedule.
+    * Group discussion at the beginning to go over what needs to be done, where we are stuck. At this time we can assess the progress of the project and see if help is needed in areas to bring us back on schedule.
 
 * How will you communicate after hours and on the weekend?
-Messages in slack
+    * Messages in slack
 
 * What is your strategy for ensuring everyone’s voice is heard?
-Give everyone time to discuss what they are working on and what they need help with.
+    * Give everyone time to discuss what they are working on and what they need help with.
 
 * How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
-Proactively engage with all members so that they don’t feel left behind and they feel heard. If we feel someone is being rude, call them out, invite them to another table (in remo) to take a break. 
+    * Proactively engage with all members so that they don’t feel left behind and they feel heard. If we feel someone is being rude, call them out, invite them to another table (in remo) to take a break. 
 
 
 ## Work Plan
@@ -101,9 +101,9 @@ NOTE: While researching and experimentation is always encouraged, writing and/or
 Describe at least:
 
 * How will you identify tasks, assign tasks, know when they are complete, and manage work in general?
-We will use Trello to identify, assign, and manage project work.
+    * We will use Trello to identify, assign, and manage project work.
 * What project management tool will be used?
-Trello 
+    * Trello 
 
 ## Presentation Deck
 Make a single copy of the Presentation Deck Template. Share your copy with all team members, so everyone is working from the same file.
@@ -125,28 +125,29 @@ Reminder as you work on and practice your presentations:
 Plan out what your team’s Git workflow looks like for coding tasks.
 
 Describe at least:
+
 * What components of your project will live on GitHub?
-Automated shell script
-SOP
-SLA
-Team agreement README.md 
+    * Automated shell script
+    * SOP
+    * SLA
+    * Team agreement README.md 
 
 
 * How will you share the repository with your teammates?
-	Share the link to the group organization repo
+	* Share the link to the group organization repo
 
 * What is your Git flow?
-We will use “Trunk Based Development” 
+    * We will use “Trunk Based Development” 
 
 * Will you be using a PR review workflow? If so, consider:
     * How many people must review a PR?
-    Two people 
+        * Two people 
 
     * Who merges PRs?
-    The person who made the most recent change 
+        * The person who made the most recent change 
 
     * How often will you merge?
-    After any major change or addition to repo
+        * After any major change or addition to repo
 
     * How will you communicate that it’s time to merge?
-	Team slack message 
+	    * Team slack message 
